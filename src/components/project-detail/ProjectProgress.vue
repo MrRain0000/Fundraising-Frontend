@@ -27,6 +27,13 @@ const formatCurrency = (value) => {
 const formatFullCurrency = (value) => {
   return value.toLocaleString("vi-VN") + " đ";
 };
+
+// Format date from YYYY-MM-DD to DD/MM/YYYY
+const formatDate = (dateString) => {
+  if (!dateString) return "";
+  const [year, month, day] = dateString.split("-");
+  return `${day}/${month}/${year}`;
+};
 </script>
 
 <template>
@@ -75,36 +82,25 @@ const formatFullCurrency = (value) => {
       </div>
 
       <div class="progress-bar-container">
-        <!-- Milestone markers -->
-        <div class="progress-milestones">
-          <div class="milestone milestone-raised" :style="{ left: Math.min(progressPercent, 100) + '%' }">
-            <div class="milestone-label">
-              <span class="milestone-title">Đã quyên góp</span>
-              <span class="milestone-value">{{ formatCurrency(project.raised) }}</span>
-              <span class="milestone-detail">{{ formatFullCurrency(project.raised) }}</span>
-            </div>
-          </div>
-          <div class="milestone milestone-target" style="left: 100%">
-            <div class="milestone-label">
-              <span class="milestone-title">Mục tiêu</span>
-              <span class="milestone-value">{{ formatCurrency(project.target) }}</span>
-              <span class="milestone-detail">{{ formatFullCurrency(project.target) }}</span>
-            </div>
-          </div>
-        </div>
-        
         <div class="progress-bar">
           <div
             class="progress-fill"
             :style="{ width: Math.min(progressPercent, 100) + '%' }"
-          ></div>
-        </div>
-        <div class="progress-info">
-          <span class="progress-percent">{{ progressPercent }}% đạt được</span>
-          <span
-            v-if="project.status === 'completed'"
-            class="progress-complete-badge"
           >
+            <span class="progress-percent-inside">{{ progressPercent }}%</span>
+          </div>
+        </div>
+        <div class="progress-dates">
+          <div class="date-label date-start">
+            {{ formatDate(project.startDate) }}
+          </div>
+          <div class="date-label date-end">
+            {{ formatDate(project.endDate) }}
+            <span class="target-amount">{{ formatCurrency(project.target) }}</span>
+          </div>
+        </div>
+        <div class="progress-info" v-if="project.status === 'completed'">
+          <span class="progress-complete-badge">
             <i class="bi bi-check-circle-fill"></i> Mục tiêu hoàn thành
           </span>
         </div>
@@ -179,75 +175,13 @@ const formatFullCurrency = (value) => {
   position: relative;
 }
 
-.progress-milestones {
-  position: relative;
-  height: 80px;
-  margin-bottom: var(--spacing-sm);
-}
-
-.milestone {
-  position: absolute;
-  top: 0;
-  transform: translateX(-50%);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.milestone::before {
-  content: '';
-  width: 2px;
-  height: 20px;
-  background: var(--color-text-muted);
-  margin-bottom: 4px;
-}
-
-.milestone-raised::before {
-  background: var(--color-primary);
-}
-
-.milestone-label {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  padding: var(--spacing-xs) var(--spacing-sm);
-  background: var(--color-white);
-  border-radius: var(--radius-md);
-  box-shadow: var(--shadow-sm);
-  min-width: 100px;
-}
-
-.milestone-title {
-  font-size: var(--font-size-xs);
-  color: var(--color-text-muted);
-  margin-bottom: 2px;
-}
-
-.milestone-value {
-  font-size: var(--font-size-lg);
-  font-weight: var(--font-weight-bold);
-  color: var(--color-text);
-  line-height: 1.2;
-}
-
-.milestone-raised .milestone-value {
-  color: var(--color-primary);
-}
-
-.milestone-detail {
-  font-size: var(--font-size-xs);
-  color: var(--color-text-light);
-  margin-top: 2px;
-}
-
-
 .progress-bar {
   width: 100%;
-  height: 12px;
+  height: 16px;
   background: var(--color-background-alt);
   border-radius: var(--radius-full);
-  overflow: hidden;
+  overflow: visible;
+  position: relative;
 }
 
 .progress-fill {
@@ -259,6 +193,49 @@ const formatFullCurrency = (value) => {
   );
   border-radius: var(--radius-full);
   transition: width 0.8s ease-out;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.progress-percent-inside {
+  color: var(--color-white);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-bold);
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+
+.progress-dates {
+  display: flex;
+  justify-content: space-between;
+  margin-top: var(--spacing-xs);
+  font-size: var(--font-size-xs);
+}
+
+.date-label {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.date-start {
+  color: var(--color-text-muted);
+  text-align: left;
+}
+
+.date-end {
+  color: var(--color-text-muted);
+  text-align: right;
+}
+
+.target-amount {
+  color: var(--color-primary);
+  font-weight: var(--font-weight-bold);
+  font-size: var(--font-size-base);
 }
 
 .progress-info {
@@ -301,21 +278,20 @@ const formatFullCurrency = (value) => {
     font-size: var(--font-size-xl);
   }
 
-  .progress-milestones {
-    height: 70px;
+  .progress-bar {
+    height: 14px;
   }
 
-  .milestone-label {
-    min-width: 80px;
-    padding: 4px 8px;
+  .progress-percent-inside {
+    font-size: 11px;
   }
 
-  .milestone-value {
-    font-size: var(--font-size-base);
-  }
-
-  .milestone-detail {
+  .progress-dates {
     font-size: 10px;
+  }
+
+  .target-amount {
+    font-size: var(--font-size-sm);
   }
 }
 </style>
