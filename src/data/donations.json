@@ -1,0 +1,75 @@
+[
+  {
+    "code": "PT-2024-001",
+    "name": "Nguyễn Văn An",
+    "email": "nguyenvanan@example.com",
+    "phone": "0901234567",
+    "amount": 1000000000,
+    "date": "15/01/2024",
+    "campaign": "Xây trường vùng cao Hà Giang",
+    "status": "completed",
+    "usedFor": [
+      { "item": "Vật liệu xây dựng", "amount": 400000000 },
+      { "item": "Nhân công", "amount": 300000000 },
+      { "item": "Thiết bị nội thất", "amount": 200000000 },
+      { "item": "Đang triển khai", "amount": 100000000 }
+    ]
+  },
+  {
+    "code": "PT-2024-156",
+    "name": "Công ty XYZ",
+    "email": "donate@xyz.com",
+    "phone": "0281234567",
+    "amount": 100000000,
+    "date": "18/06/2024",
+    "campaign": "Trái tim cho em 2024",
+    "status": "completed",
+    "usedFor": [
+      { "item": "Chi phí phẫu thuật (2 ca)", "amount": 80000000 },
+      { "item": "Hậu phẫu & thuốc", "amount": 15000000 },
+      { "item": "Hỗ trợ gia đình", "amount": 5000000 }
+    ]
+  },
+  {
+    "code": "PT-2024-200",
+    "name": "Trần Thị Bình",
+    "email": "binh.tran@email.com",
+    "phone": "0912345678",
+    "amount": 50000000,
+    "date": "20/08/2024",
+    "campaign": "Bữa cơm 0 đồng",
+    "status": "in_progress",
+    "usedFor": [
+      { "item": "Nguyên liệu (đã chi)", "amount": 35000000 },
+      { "item": "Đang sử dụng", "amount": 15000000 }
+    ]
+  },
+  {
+    "code": "PT-2024-250",
+    "name": "Lê Hoàng Nam",
+    "email": "nam.le@email.com",
+    "phone": "0987654321",
+    "amount": 25000000,
+    "date": "10/09/2024",
+    "campaign": "Học bổng vượt khó 2024",
+    "status": "completed",
+    "usedFor": [
+      { "item": "Học bổng cho 16 em học sinh", "amount": 24000000 },
+      { "item": "Cặp sách và dụng cụ", "amount": 1000000 }
+    ]
+  },
+  {
+    "code": "PT-2024-301",
+    "name": "Phạm Thùy Linh",
+    "email": "linh.pham@email.com",
+    "phone": "0909123456",
+    "amount": 10000000,
+    "date": "05/10/2024",
+    "campaign": "Khám sức khỏe miễn phí",
+    "status": "in_progress",
+    "usedFor": [
+      { "item": "Thuốc và vật tư y tế", "amount": 8000000 },
+      { "item": "Chi phí vận chuyển", "amount": 2000000 }
+    ]
+  }
+]

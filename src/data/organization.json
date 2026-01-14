@@ -1,0 +1,55 @@
+{
+  "name": "Quỹ Từ Thiện Bông Hồng Nhỏ",
+  "englishName": "Little Roses Foundation",
+  "description": "Quỹ Từ Thiện Bông Hồng Nhỏ là tổ chức phi lợi nhuận hoạt động trong lĩnh vực hỗ trợ giáo dục, y tế và phát triển cộng đồng cho trẻ em và người dân vùng khó khăn trên khắp Việt Nam.",
+  "mission": "Thắp sáng nụ cười, ươm mầm tương lai - Mang đến cơ hội học tập, chăm sóc sức khỏe và cuộc sống tốt đẹp hơn cho những mảnh đời khó khăn.",
+  "foundedYear": 2021,
+  "website": "https://littlerosesfoundation.org",
+  "hotline": "(+84) 906.22.04.22",
+  "email": "info@littlerosesfoundation.org",
+  "address": "TP. Hồ Chí Minh, Việt Nam",
+
+  "bankInfo": {
+    "bankName": "Ngân hàng Sacombank",
+    "accountNumber": "060289990456",
+    "accountName": "Quỹ Từ Thiện Bông Hồng Nhỏ",
+    "branch": "Tân Định",
+    "bankBin": "970403"
+  },
+
+  "stats": {
+    "totalRaised": "5.230.000.000 VNĐ",
+    "totalDonors": "12.450+",
+    "projectsCompleted": 45,
+    "provincesReached": 12
+  },
+
+  "programs": [
+    {
+      "name": "Giáo dục",
+      "description": "Xây trường, trao học bổng, tặng sách và dụng cụ học tập cho học sinh vùng cao"
+    },
+    {
+      "name": "Y tế",
+      "description": "Khám bệnh miễn phí, hỗ trợ phẫu thuật tim, cấp thuốc cho người già neo đơn"
+    },
+    {
+      "name": "Xã hội",
+      "description": "Cứu trợ thiên tai, bữa cơm có thịt, thắp sáng đường quê, hỗ trợ người nghèo"
+    }
+  ],
+
+  "howToDonate": [
+    "Chuyển khoản ngân hàng theo thông tin bên trên",
+    "Quét mã QR VietQR trên website hoặc ứng dụng",
+    "Tham gia các sự kiện gây quỹ",
+    "Liên hệ hotline để được hỗ trợ"
+  ],
+
+  "transparency": [
+    "100% số tiền quyên góp được sử dụng đúng mục đích",
+    "Công khai sao kê ngân hàng hàng tháng",
+    "Báo cáo chi tiết việc sử dụng từng khoản đóng góp",
+    "Cung cấp mã tra cứu để nhà tài trợ theo dõi"
+  ]
+}

@@ -1,0 +1,566 @@
+[
+  {
+    "id": 1,
+    "slug": "xay-truong-ban-nam-can",
+    "title": "Xây trường bản Nậm Cần",
+    "tag": "education",
+    "tagLabel": "Giáo dục",
+    "image": "https://images.unsplash.com/photo-1744254653909-4a57ac5d22b6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "shortDescription": "Hỗ trợ xây dựng phòng học kiên cố cho trẻ em vùng cao thay thế lớp học tranh tre nứa lá.",
+    "raised": 150000000,
+    "target": 200000000,
+    "status": "active",
+    "daysLeft": 24,
+    "location": "Nghệ An",
+    "fullDescription": "Trường Tiểu học bản Nậm Cần nằm ở vùng cao huyện Kỳ Sơn, tỉnh Nghệ An - nơi có 95% đồng bào dân tộc Khơ Mú sinh sống. Hiện tại, các em học sinh phải học trong những phòng học tạm bợ làm bằng tranh tre nứa lá, dột nát khi mưa và lạnh giá vào mùa đông. Chúng tôi kêu gọi cộng đồng chung tay xây dựng 2 phòng học kiên cố, trang bị đầy đủ bàn ghế và hệ thống điện năng lượng mặt trời để các em có môi trường học tập tốt hơn.",
+    "objectives": [
+      "Xây dựng 2 phòng học kiên cố diện tích 50m²/phòng",
+      "Trang bị 50 bộ bàn ghế học sinh và 2 bảng từ",
+      "Lắp đặt hệ thống điện năng lượng mặt trời 3kW",
+      "Xây dựng nhà vệ sinh đạt chuẩn cho học sinh"
+    ],
+    "reason": "Bản Nậm Cần là một trong những địa phương khó khăn nhất của huyện Kỳ Sơn. Với đường đi hiểm trở, cơ sở hạ tầng thiếu thốn, các em học sinh nơi đây không có được điều kiện học tập cơ bản. Việc xây dựng trường học kiên cố sẽ giúp 120 em học sinh có môi trường học tập an toàn, ấm áp vào mùa đông và thoáng mát vào mùa hè.",
+    "fundUsage": [
+      {
+        "item": "Vật liệu xây dựng (xi măng, gạch, sắt thép)",
+        "amount": 100000000
+      },
+      { "item": "Chi phí nhân công xây dựng", "amount": 50000000 },
+      { "item": "Bàn ghế và trang thiết bị", "amount": 30000000 },
+      { "item": "Hệ thống điện năng lượng mặt trời", "amount": 20000000 }
+    ],
+    "organizer": {
+      "name": "Quỹ Bông Hồng Nhỏ",
+      "logo": "https://littlerosesfoundation.org/wp-content/uploads/2022/09/Asset-1.png"
+    },
+    "startDate": "2024-11-01",
+    "endDate": "2025-03-31",
+    "donorCount": 245,
+    "gallery": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=800",
+      "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=800",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800"
+    ],
+    "timeline": []
+  },
+  {
+    "id": 2,
+    "slug": "thu-vien-xanh-cho-em",
+    "title": "Thư viện xanh cho em",
+    "tag": "education",
+    "tagLabel": "Giáo dục",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDJNOyw8sVZk4iFqGwIKdYGQ8Tjg8W4Tl0dRA5ms-mLwVkBzAWhbBc48OnG-R1x1kuX37qeM51mxlt-QdgNJGXi1grN9t6tCurWqy6aynCieStlmM7xZWIwJu8Ct1MI0bFjyDZpoY4W_HcDuPSsy3weFzUdQoWE4-6eQw1MuZ_LA3K6h-tqeXknAZWR0Q_v7th2x4WWlYGRrv35bsz1Xcby5Pv0LgVTKCv0QRcl9vTGl0zVlX2LW8-EsWW3k5TvelpmpcI0Mg7dsw",
+    "shortDescription": "Trao tặng 2000 đầu sách và xây dựng phòng đọc sách cho trường tiểu học vùng cao.",
+    "raised": 45000000,
+    "target": 45000000,
+    "status": "completed",
+    "completedDate": "12/2023",
+    "location": "Lào Cai",
+    "fullDescription": "Dự án Thư viện Xanh cho Em đã mang đến 2000 đầu sách và một phòng đọc khang trang cho Trường Tiểu học Tả Van, huyện Sa Pa, tỉnh Lào Cai. Với 98% học sinh là người Mông, nhiều em chưa từng được tiếp cận với sách vở ngoài sách giáo khoa. Thư viện mới đã trở thành không gian yêu thích của các em, nơi các em khám phá thế giới qua từng trang sách.",
+    "objectives": [
+      "Trao tặng 2000 đầu sách đa thể loại phù hợp lứa tuổi",
+      "Cải tạo và trang trí phòng đọc sách 40m²",
+      "Trang bị kệ sách, bàn ghế và thảm đọc sách",
+      "Tổ chức buổi ra mắt thư viện với các hoạt động vui chơi"
+    ],
+    "reason": "Trẻ em vùng cao có rất ít cơ hội tiếp cận với sách vở. Một thư viện nhỏ có thể mở ra cả một thế giới mới cho các em, giúp các em phát triển khả năng đọc hiểu, tư duy và mơ ước về tương lai tươi sáng hơn.",
+    "fundUsage": [
+      { "item": "Mua 2000 đầu sách các loại", "amount": 25000000 },
+      { "item": "Cải tạo và trang trí phòng đọc", "amount": 12000000 },
+      { "item": "Kệ sách, bàn ghế, thảm", "amount": 8000000 }
+    ],
+    "organizer": {
+      "name": "Quỹ Bông Hồng Nhỏ",
+      "logo": "https://littlerosesfoundation.org/wp-content/uploads/2022/09/Asset-1.png"
+    },
+    "startDate": "2023-09-01",
+    "endDate": "2023-12-15",
+    "donorCount": 312,
+    "gallery": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800",
+      "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=800",
+      "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=800"
+    ],
+    "timeline": [
+      {
+        "date": "01/09/2023",
+        "title": "Khởi động dự án",
+        "description": "Khảo sát nhu cầu tại Trường Tiểu học Tả Van"
+      },
+      {
+        "date": "15/10/2023",
+        "title": "Hoàn thành gây quỹ",
+        "description": "Đạt 100% mục tiêu với 312 lượt đóng góp"
+      },
+      {
+        "date": "01/11/2023",
+        "title": "Cải tạo phòng đọc",
+        "description": "Sơn sửa, lắp đặt kệ sách và trang trí"
+      },
+      {
+        "date": "15/12/2023",
+        "title": "Khánh thành thư viện",
+        "description": "Trao sách và tổ chức lễ khánh thành"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "hoc-bong-vuot-kho-2024",
+    "title": "Học bổng vượt khó 2024",
+    "tag": "education",
+    "tagLabel": "Giáo dục",
+    "image": "https://images.unsplash.com/photo-1764738130330-fec95073e59e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "shortDescription": "Trao học bổng cho 100 em học sinh nghèo vượt khó tại các tỉnh miền núi phía Bắc.",
+    "raised": 80000000,
+    "target": 150000000,
+    "status": "active",
+    "daysLeft": 45,
+    "location": "Nhiều tỉnh",
+    "fullDescription": "Chương trình Học bổng Vượt Khó 2024 hướng đến việc hỗ trợ 100 em học sinh có hoàn cảnh đặc biệt khó khăn nhưng có thành tích học tập xuất sắc tại các tỉnh Hà Giang, Cao Bằng, Lào Cai và Lai Châu. Mỗi suất học bổng trị giá 1.5 triệu đồng sẽ giúp các em có thêm nguồn lực để tiếp tục con đường học vấn.",
+    "objectives": [
+      "Trao 100 suất học bổng, mỗi suất 1.5 triệu đồng",
+      "Tặng cặp sách và dụng cụ học tập cho học sinh",
+      "Tổ chức lễ trao học bổng tại 4 tỉnh",
+      "Kết nối các em với chương trình mentorship"
+    ],
+    "reason": "Nhiều em học sinh vùng cao có học lực giỏi nhưng phải nghỉ học vì gia đình không đủ điều kiện. Một suất học bổng nhỏ có thể thay đổi cuộc đời các em, giúp các em tiếp tục ước mơ đến trường và xây dựng tương lai tốt đẹp hơn.",
+    "fundUsage": [
+      { "item": "100 suất học bổng (1.5 triệu/suất)", "amount": 100000000 },
+      { "item": "Cặp sách và dụng cụ học tập", "amount": 30000000 },
+      { "item": "Chi phí tổ chức lễ trao tại 4 tỉnh", "amount": 15000000 },
+      { "item": "Chi phí vận hành và quản lý", "amount": 5000000 }
+    ],
+    "organizer": {
+      "name": "Quỹ Bông Hồng Nhỏ",
+      "logo": "https://littlerosesfoundation.org/wp-content/uploads/2022/08/df.png"
+    },
+    "startDate": "2024-10-01",
+    "endDate": "2025-03-01",
+    "donorCount": 156,
+    "gallery": [
+      "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=800",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800"
+    ],
+    "timeline": []
+  },
+  {
+    "id": 4,
+    "slug": "mo-tim-mien-phi-cho-be-an",
+    "title": "Mổ tim miễn phí cho bé An",
+    "tag": "health",
+    "tagLabel": "Y tế",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCdsCeHJdEuHlo_Zyy4hSJjCzW4jUhmv6ZtKug2mQiWeeZ80WvsIXil09d0nV2d50CpLTWL92D-DLZhuCub5vXRIZAaSuszGywCrPjTpHcZpMZBDnDsg_IihpRfKvdsi8WDg6x05J4IbBvhPIS6S6PxSjuq91r4fSDlLUPiFnUzIdS0w8OuyzfHA0AlpHwKBPteuu3SevPxZDv31DKo-Vv9W_uWi3oLrr8UUdIryQMe0-tjw1iA7_4VAETQ76XaatCPdc01v2nD9A",
+    "shortDescription": "Hỗ trợ chi phí phẫu thuật tim bẩm sinh cho bé Nguyễn Văn An (3 tuổi).",
+    "raised": 45000000,
+    "target": 50000000,
+    "status": "active",
+    "daysLeft": 10,
+    "location": "Hà Nội",
+    "fullDescription": "Bé Nguyễn Văn An, 3 tuổi, quê ở Thanh Hóa, được chẩn đoán mắc bệnh tim bẩm sinh thông liên thất. Gia đình bé An thuộc diện hộ nghèo, bố mẹ làm nông, không có khả năng chi trả chi phí phẫu thuật. Nếu không được mổ kịp thời, tình trạng sức khỏe của bé sẽ ngày càng xấu đi. Mỗi đóng góp của bạn sẽ giúp bé An có cơ hội được phẫu thuật và sống một cuộc sống bình thường như bao trẻ em khác.",
+    "objectives": [
+      "Chi trả toàn bộ chi phí phẫu thuật tim",
+      "Hỗ trợ chi phí nằm viện và thuốc men sau mổ",
+      "Hỗ trợ chi phí đi lại và ăn ở cho gia đình trong thời gian chăm sóc",
+      "Theo dõi và hỗ trợ tái khám định kỳ trong 6 tháng"
+    ],
+    "reason": "Bệnh tim bẩm sinh nếu được phẫu thuật kịp thời, trẻ có thể phát triển và sống khỏe mạnh như bình thường. Chi phí phẫu thuật khoảng 50 triệu đồng là con số quá lớn với gia đình bé An, nhưng với sự chung tay của cộng đồng, chúng ta có thể cứu sống một sinh mạng nhỏ bé.",
+    "fundUsage": [
+      { "item": "Chi phí phẫu thuật và gây mê", "amount": 35000000 },
+      { "item": "Chi phí nằm viện và thuốc sau mổ", "amount": 10000000 },
+      { "item": "Hỗ trợ gia đình (đi lại, ăn ở)", "amount": 5000000 }
+    ],
+    "organizer": {
+      "name": "Quỹ Bông Hồng Nhỏ",
+      "logo": "https://littlerosesfoundation.org/wp-content/uploads/2022/08/df.png"
+    },
+    "startDate": "2024-12-01",
+    "endDate": "2025-01-15",
+    "donorCount": 423,
+    "gallery": [
+      "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=800",
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800"
+    ],
+    "timeline": []
+  },
+  {
+    "id": 5,
+    "slug": "kham-suc-khoe-mien-phi",
+    "title": "Khám sức khỏe miễn phí",
+    "tag": "health",
+    "tagLabel": "Y tế",
+    "image": "https://littlerosesfoundation.org/wp-content/uploads/2023/06/Dear-Future-1024x683.jpg",
+    "shortDescription": "Tổ chức đoàn y bác sĩ khám bệnh miễn phí cho 500 người dân vùng sâu vùng xa.",
+    "raised": 35000000,
+    "target": 60000000,
+    "status": "active",
+    "daysLeft": 30,
+    "location": "Hà Giang",
+    "fullDescription": "Chương trình Khám sức khỏe miễn phí sẽ mang đội ngũ y bác sĩ tình nguyện đến với 500 người dân tại xã Xín Mần, huyện Xín Mần, tỉnh Hà Giang. Người dân nơi đây hầu như không có điều kiện tiếp cận dịch vụ y tế do đường đi xa xôi, hiểm trở. Chương trình sẽ khám tổng quát, phát thuốc miễn phí và tư vấn sức khỏe cho bà con.",
+    "objectives": [
+      "Khám tổng quát cho 500 người dân",
+      "Phát thuốc miễn phí và hướng dẫn sử dụng",
+      "Tầm soát các bệnh thường gặp: huyết áp, tiểu đường, mắt",
+      "Tư vấn dinh dưỡng và chăm sóc sức khỏe"
+    ],
+    "reason": "Người dân vùng cao thường mắc nhiều bệnh do điều kiện sống khó khăn và thiếu kiến thức về chăm sóc sức khỏe. Một buổi khám bệnh miễn phí có thể giúp phát hiện sớm các bệnh nguy hiểm và cứu sống nhiều người.",
+    "fundUsage": [
+      { "item": "Thuốc và vật tư y tế", "amount": 30000000 },
+      { "item": "Chi phí đi lại cho đoàn y bác sĩ", "amount": 15000000 },
+      { "item": "Ăn uống và lưu trú", "amount": 10000000 },
+      { "item": "Quà tặng cho người dân", "amount": 5000000 }
+    ],
+    "organizer": {
+      "name": "Quỹ Bông Hồng Nhỏ",
+      "logo": "https://littlerosesfoundation.org/wp-content/uploads/2022/08/df.png"
+    },
+    "startDate": "2024-12-15",
+    "endDate": "2025-02-15",
+    "donorCount": 89,
+    "gallery": [
+      "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=800",
+      "https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?w=800"
+    ],
+    "timeline": []
+  },
+  {
+    "id": 6,
+    "slug": "cap-thuoc-cho-nguoi-gia-neo-don",
+    "title": "Cấp thuốc cho người già neo đơn",
+    "tag": "health",
+    "tagLabel": "Y tế",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDyC-HipkNAVYe_cYI-aMNYOi_pEqO7SeNkXONy5EZiQbrW2VnN0XSnUrLsdWhAoS4EHLWnfaOr4E-VMD84OV4XzCIKzBBTYbIMmnVN5C8Rbl9uV3SCoOxf7mgUGWpLU1ibQ332UdZOTN1sAgKPToSrsWGCcZMn6teCGn_fmvs9BWkppfGVvASY0M9YbmGK7fW-zMcg6J5eTxMjcUvUkyquDqhhKib-NYBvwLu1JpldAs-kNOK2dur3ROzA8My1fotKS-TSHBOkXQ",
+    "shortDescription": "Cung cấp thuốc men định kỳ cho 200 cụ già neo đơn tại các xã vùng sâu.",
+    "raised": 25000000,
+    "target": 25000000,
+    "status": "completed",
+    "completedDate": "10/2023",
+    "location": "Cao Bằng",
+    "fullDescription": "Dự án đã hỗ trợ thuốc men định kỳ trong 6 tháng cho 200 cụ già neo đơn, không nơi nương tựa tại các xã vùng sâu của huyện Bảo Lạc, tỉnh Cao Bằng. Các cụ đều mắc các bệnh mãn tính như cao huyết áp, tiểu đường, viêm khớp nhưng không có điều kiện mua thuốc điều trị.",
+    "objectives": [
+      "Khám bệnh và lập hồ sơ sức khỏe cho 200 cụ già",
+      "Cấp thuốc điều trị bệnh mãn tính trong 6 tháng",
+      "Tập huấn cách sử dụng thuốc an toàn",
+      "Thăm hỏi và động viên tinh thần các cụ"
+    ],
+    "reason": "Người già neo đơn là những người yếu thế nhất trong xã hội. Họ không có con cái chăm sóc, không có thu nhập để mua thuốc men khi ốm đau. Một gói thuốc nhỏ có thể giúp các cụ kiểm soát bệnh và sống vui khỏe hơn.",
+    "fundUsage": [
+      { "item": "Thuốc điều trị các bệnh mãn tính", "amount": 18000000 },
+      { "item": "Chi phí khám bệnh và tư vấn", "amount": 5000000 },
+      { "item": "Chi phí đi lại và vận chuyển", "amount": 2000000 }
+    ],
+    "organizer": {
+      "name": "Quỹ Bông Hồng Nhỏ",
+      "logo": "https://littlerosesfoundation.org/wp-content/uploads/2022/08/df.png"
+    },
+    "startDate": "2023-04-01",
+    "endDate": "2023-10-31",
+    "donorCount": 156,
+    "gallery": [
+      "https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?w=800",
+      "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=800"
+    ],
+    "timeline": [
+      {
+        "date": "01/04/2023",
+        "title": "Khởi động dự án",
+        "description": "Lập danh sách và khám sàng lọc"
+      },
+      {
+        "date": "15/04/2023",
+        "title": "Đợt cấp thuốc đầu tiên",
+        "description": "Phát thuốc cho 200 cụ già"
+      },
+      {
+        "date": "15/07/2023",
+        "title": "Đợt cấp thuốc thứ 2",
+        "description": "Thăm hỏi và cấp thuốc tiếp theo"
+      },
+      {
+        "date": "31/10/2023",
+        "title": "Kết thúc dự án",
+        "description": "Tổng kết và đánh giá hiệu quả"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "bua-com-co-thit-vung-cao",
+    "title": "Bữa cơm có thịt vùng cao",
+    "tag": "social",
+    "tagLabel": "Xã hội",
+    "image": "https://images.unsplash.com/photo-1764738130343-60ef3368a627?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "shortDescription": "Cung cấp 1000 bữa ăn dinh dưỡng cho trẻ em và người già tại xã Xín Mần.",
+    "raised": 20000000,
+    "target": 50000000,
+    "status": "active",
+    "daysLeft": 15,
+    "location": "Hà Giang",
+    "fullDescription": "Chương trình 'Bữa cơm có thịt' mang đến những bữa ăn đầy đủ dinh dưỡng cho trẻ em và người già nghèo tại xã Xín Mần, huyện Xín Mần, tỉnh Hà Giang. Đây là vùng đặc biệt khó khăn, nhiều gia đình quanh năm chỉ ăn cơm với rau, hiếm khi có thịt. Chương trình cam kết mỗi tuần sẽ có ít nhất 2 bữa cơm có thịt cho các em học sinh bán trú và các cụ già neo đơn.",
+    "objectives": [
+      "Cung cấp 1000 bữa ăn có thịt trong 3 tháng",
+      "Hỗ trợ bếp ăn trường học và các hộ gia đình khó khăn",
+      "Tặng thực phẩm dinh dưỡng cho trẻ em suy dinh dưỡng",
+      "Nâng cao nhận thức về dinh dưỡng cho phụ huynh"
+    ],
+    "reason": "Suy dinh dưỡng là vấn đề nghiêm trọng ở vùng cao. Nhiều trẻ em chậm phát triển, hay ốm đau vì thiếu protein. Một bữa cơm có thịt tuy đơn giản nhưng là món quà quý giá với các em.",
+    "fundUsage": [
+      { "item": "Thực phẩm (thịt, cá, trứng)", "amount": 35000000 },
+      { "item": "Rau củ và gia vị", "amount": 10000000 },
+      { "item": "Chi phí vận chuyển và bảo quản", "amount": 5000000 }
+    ],
+    "organizer": {
+      "name": "Quỹ Bông Hồng Nhỏ",
+      "logo": "https://littlerosesfoundation.org/wp-content/uploads/2022/08/df.png"
+    },
+    "startDate": "2024-12-01",
+    "endDate": "2025-03-31",
+    "donorCount": 67,
+    "gallery": [
+      "https://images.unsplash.com/photo-1547592180-85f173990554?w=800",
+      "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=800"
+    ],
+    "timeline": []
+  },
+  {
+    "id": 8,
+    "slug": "thap-sang-duong-que",
+    "title": "Thắp sáng đường quê",
+    "tag": "social",
+    "tagLabel": "Xã hội",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBzd8aUVVCu9-VkCxQJn4O9QjkBT8IqRiYamKKUjp-n6A3ZdFqWU_pvE-pXCyCybNyaaqxmPnNA89mkMIjg4XEjpGIfGpcpPn8pvrOObafDEjB5-Sxo6i-jvCkuteGBZ8u3T-0klc6tY6DDe7JrHSek0ya7RySXhF7Y_T2b-v9V9Y9VsOeDI1jimAARHB1lK10Vs8rf9nrrDjcliFVyGijHMBa_ACIxEdEXKadqkgTa8wPNeoxgbMoHbkXGOqOKCFh4Chjqt3n3rA",
+    "shortDescription": "Lắp đặt 30 trụ đèn năng lượng mặt trời giúp người dân đi lại an toàn.",
+    "raised": 82500000,
+    "target": 82500000,
+    "status": "completed",
+    "completedDate": "10/2023",
+    "location": "Trà Vinh",
+    "fullDescription": "Dự án 'Thắp sáng đường quê' đã lắp đặt thành công 30 trụ đèn năng lượng mặt trời tại các tuyến đường thôn xóm thuộc xã Long Hòa, huyện Châu Thành, tỉnh Trà Vinh. Trước đây, người dân phải đi lại trong bóng tối, nhiều tai nạn đáng tiếc đã xảy ra. Giờ đây, những con đường đã được thắp sáng, người dân an tâm đi làm về muộn và trẻ em được vui chơi an toàn.",
+    "objectives": [
+      "Lắp đặt 30 trụ đèn năng lượng mặt trời",
+      "Chiếu sáng 3km đường thôn xóm",
+      "Hướng dẫn người dân bảo trì đèn",
+      "Bảo hành thiết bị trong 2 năm"
+    ],
+    "reason": "Nhiều vùng nông thôn không có điện lưới, đường sá tối tăm gây nguy hiểm cho người đi đường. Đèn năng lượng mặt trời là giải pháp bền vững, không tốn điện và dễ bảo trì.",
+    "fundUsage": [
+      { "item": "30 bộ đèn năng lượng mặt trời", "amount": 60000000 },
+      { "item": "Trụ đèn và lắp đặt", "amount": 15000000 },
+      { "item": "Chi phí vận chuyển", "amount": 5000000 },
+      { "item": "Dự phòng bảo hành", "amount": 2500000 }
+    ],
+    "organizer": {
+      "name": "Quỹ Bông Hồng Nhỏ",
+      "logo": "https://littlerosesfoundation.org/wp-content/uploads/2022/08/df.png"
+    },
+    "startDate": "2023-07-01",
+    "endDate": "2023-10-15",
+    "donorCount": 234,
+    "gallery": [
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=800"
+    ],
+    "timeline": [
+      {
+        "date": "01/07/2023",
+        "title": "Khởi động",
+        "description": "Khảo sát địa điểm lắp đặt"
+      },
+      {
+        "date": "01/08/2023",
+        "title": "Hoàn thành gây quỹ",
+        "description": "Đạt 100% mục tiêu"
+      },
+      {
+        "date": "15/09/2023",
+        "title": "Lắp đặt",
+        "description": "Lắp đặt 30 trụ đèn"
+      },
+      {
+        "date": "15/10/2023",
+        "title": "Khánh thành",
+        "description": "Bàn giao cho địa phương"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "cuu-tro-lu-lut-mien-trung",
+    "title": "Cứu trợ lũ lụt miền Trung",
+    "tag": "social",
+    "tagLabel": "Xã hội",
+    "image": "https://littlerosesfoundation.org/wp-content/uploads/2023/06/Remini20210628065621328sdsd-1024x683.jpg",
+    "shortDescription": "Hỗ trợ khẩn cấp nhu yếu phẩm và xây dựng lại nhà cho bà con vùng lũ.",
+    "raised": 120000000,
+    "target": 200000000,
+    "status": "active",
+    "daysLeft": 20,
+    "location": "Quảng Bình",
+    "fullDescription": "Đợt mưa lũ lịch sử đã gây thiệt hại nặng nề cho bà con tỉnh Quảng Bình. Hàng trăm ngôi nhà bị ngập, hư hại, nhiều gia đình mất sạch tài sản. Quỹ Bông Hồng Nhỏ kêu gọi cộng đồng chung tay cứu trợ khẩn cấp, cung cấp nhu yếu phẩm và hỗ trợ xây dựng lại nhà cho những gia đình khó khăn nhất.",
+    "objectives": [
+      "Cứu trợ khẩn cấp nhu yếu phẩm cho 200 hộ gia đình",
+      "Hỗ trợ xây dựng lại 10 ngôi nhà bị sập đổ",
+      "Cung cấp nước sạch và thuốc men cho vùng lũ",
+      "Hỗ trợ sinh kế cho các hộ bị mất tài sản"
+    ],
+    "reason": "Bà con vùng lũ đang trong tình trạng khẩn cấp, cần được hỗ trợ ngay để ổn định cuộc sống. Mỗi đóng góp dù nhỏ đều có ý nghĩa to lớn với những người đang trong hoạn nạn.",
+    "fundUsage": [
+      { "item": "Nhu yếu phẩm (gạo, mì, nước)", "amount": 50000000 },
+      { "item": "Hỗ trợ xây dựng 10 ngôi nhà", "amount": 120000000 },
+      { "item": "Thuốc men và nước sạch", "amount": 20000000 },
+      { "item": "Hỗ trợ sinh kế", "amount": 10000000 }
+    ],
+    "organizer": {
+      "name": "Quỹ Bông Hồng Nhỏ",
+      "logo": "https://littlerosesfoundation.org/wp-content/uploads/2022/08/df.png"
+    },
+    "startDate": "2024-11-15",
+    "endDate": "2025-02-28",
+    "donorCount": 567,
+    "gallery": [
+      "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800",
+      "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800"
+    ],
+    "timeline": []
+  },
+  {
+    "id": 10,
+    "slug": "dem-nhac-thien-nguyen-2024",
+    "title": "Đêm nhạc thiện nguyện 2024",
+    "tag": "fundraising",
+    "tagLabel": "Gây quỹ",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBIiUh-boR45T0p2V5MbYendJY_r3sNQakCtzf4BxuDjX8CEczTdVhm7P4Yx3jPRC2czM4Znvo7MmBxJ5eAqVF0gdQMWn3VtmlTL_fTpdM49LeyUQnUSAlh8D0v-2uWBGebyTuXBiIMGRr5Y4A0OIAG9vBVECkw9tvEoMFNnV6trjNIZooz-IOZ2xgTVtZt3PEsDZyk5gFwaAQNsdfL8mERdMEyJSJrwD7u65qH0LR8SPxHeA3enmkrX3RkNwrTqW88Aw9DAv-YyQ",
+    "shortDescription": "Đêm nhạc gây quỹ với sự tham gia của các nghệ sĩ nổi tiếng.",
+    "raised": 500000000,
+    "target": 1000000000,
+    "status": "active",
+    "daysLeft": 60,
+    "location": "TP.HCM",
+    "fullDescription": "Đêm nhạc 'Vì trẻ em Việt Nam' là sự kiện gây quỹ thường niên lớn nhất của Quỹ Bông Hồng Nhỏ, năm nay được tổ chức vào ngày 20/02/2025 tại Nhà hát Hòa Bình, TP.HCM. Với sự tham gia của các nghệ sĩ hàng đầu Việt Nam, đêm nhạc hứa hẹn mang đến những tiết mục đặc sắc và quyên góp được nguồn quỹ lớn cho các dự án thiện nguyện năm 2025.",
+    "objectives": [
+      "Gây quỹ 1 tỷ đồng cho các dự án năm 2025",
+      "Tổ chức đêm nhạc với 10 nghệ sĩ tham gia",
+      "Bán 2000 vé và tiếp nhận đóng góp trực tuyến",
+      "Truyền thông rộng rãi về hoạt động của Quỹ"
+    ],
+    "reason": "Đêm nhạc không chỉ là sự kiện gây quỹ mà còn là cơ hội để lan tỏa thông điệp yêu thương, kết nối cộng đồng và tri ân các nhà hảo tâm đã đồng hành cùng Quỹ.",
+    "fundUsage": [
+      { "item": "Dành cho các dự án giáo dục", "amount": 400000000 },
+      { "item": "Dành cho các dự án y tế", "amount": 300000000 },
+      { "item": "Dành cho các dự án xã hội", "amount": 200000000 },
+      { "item": "Quỹ dự phòng khẩn cấp", "amount": 100000000 }
+    ],
+    "organizer": {
+      "name": "Quỹ Bông Hồng Nhỏ",
+      "logo": "https://littlerosesfoundation.org/wp-content/uploads/2022/08/df.png"
+    },
+    "startDate": "2024-12-01",
+    "endDate": "2025-02-20",
+    "donorCount": 892,
+    "gallery": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800",
+      "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800"
+    ],
+    "timeline": []
+  },
+  {
+    "id": 11,
+    "slug": "khan-am-cho-em",
+    "title": "Chương trình từ thiện gây quỹ Khăn ấm cho em",
+    "tag": "fundraising",
+    "tagLabel": "Gây quỹ",
+    "image": "https://media.vov.vn/uploaded/gkr9xw2ubgg6cfwyreywfa/2018_10_10/27500645_1813612898690319_7152450587977797259_o_tvck.jpg",
+    "shortDescription": "Chương trình từ thiện gây quỹ Khăn ấm cho em năm 2018 với mục đích ủng hộ",
+    "raised": 300000000,
+    "target": 300000000,
+    "status": "completed",
+    "completedDate": "11/2018",
+    "location": "Hà Nội",
+    "fullDescription": "Chương trình 'Khăn ấm cho em' đã quyên góp được 300 triệu đồng để mua hàng nghìn chiếc khăn ấm, áo khoác và chăn ấm tặng cho trẻ em vùng cao trong mùa đông khắc nghiệt. Chương trình đã đến với hơn 2000 em học sinh tại các tỉnh Hà Giang, Lào Cai và Cao Bằng.",
+    "objectives": [
+      "Gây quỹ 300 triệu đồng",
+      "Trao tặng khăn ấm cho 2000 em học sinh",
+      "Tổ chức 3 chuyến đi tặng quà tại 3 tỉnh",
+      "Lan tỏa thông điệp yêu thương mùa đông"
+    ],
+    "reason": "Mùa đông vùng cao vô cùng khắc nghiệt, nhiệt độ có thể xuống dưới 0 độ C. Nhiều em học sinh không có áo ấm, phải đến trường trong giá lạnh. Một chiếc khăn ấm có thể giúp các em vượt qua mùa đông.",
+    "fundUsage": [
+      { "item": "Khăn ấm và áo khoác", "amount": 200000000 },
+      { "item": "Chăn ấm và mũ len", "amount": 70000000 },
+      { "item": "Chi phí vận chuyển và tổ chức", "amount": 30000000 }
+    ],
+    "organizer": {
+      "name": "Quỹ Bông Hồng Nhỏ",
+      "logo": "https://littlerosesfoundation.org/wp-content/uploads/2022/08/df.png"
+    },
+    "startDate": "2018-09-01",
+    "endDate": "2018-11-30",
+    "donorCount": 1256,
+    "gallery": [
+      "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?w=800",
+      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=800"
+    ],
+    "timeline": [
+      {
+        "date": "01/09/2018",
+        "title": "Khởi động",
+        "description": "Phát động chương trình gây quỹ"
+      },
+      {
+        "date": "15/10/2018",
+        "title": "Hoàn thành gây quỹ",
+        "description": "Đạt 300 triệu đồng"
+      },
+      {
+        "date": "01/11/2018",
+        "title": "Chuyến đi đầu tiên",
+        "description": "Trao quà tại Hà Giang"
+      },
+      {
+        "date": "30/11/2018",
+        "title": "Kết thúc",
+        "description": "Hoàn thành trao quà tại 3 tỉnh"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "dau-gia-tu-thien-cuoi-nam",
+    "title": "Đấu giá từ thiện cuối năm",
+    "tag": "fundraising",
+    "tagLabel": "Gây quỹ",
+    "image": "https://ktmt.vnmediacdn.com/images/2024/05/13/20-1715591384-bo-suu-tap-tranh-dau-gia-1.jpg",
+    "shortDescription": "Đấu giá các tác phẩm nghệ thuật và đồ lưu niệm từ các nghệ sĩ.",
+    "raised": 75000000,
+    "target": 100000000,
+    "status": "active",
+    "daysLeft": 35,
+    "location": "Đà Nẵng",
+    "fullDescription": "Chương trình Đấu giá từ thiện cuối năm diễn ra tại Đà Nẵng với sự tham gia đóng góp của nhiều nghệ sĩ, họa sĩ nổi tiếng. Các tác phẩm nghệ thuật, đồ lưu niệm có chữ ký của các nghệ sĩ sẽ được đấu giá công khai. Toàn bộ số tiền thu được sẽ dùng cho các hoạt động thiện nguyện của Quỹ.",
+    "objectives": [
+      "Đấu giá 50 tác phẩm nghệ thuật và đồ lưu niệm",
+      "Gây quỹ 100 triệu đồng",
+      "Kết nối nghệ sĩ với hoạt động thiện nguyện",
+      "Tổ chức sự kiện giao lưu nghệ thuật"
+    ],
+    "reason": "Nghệ thuật có sức mạnh kết nối con người. Thông qua các tác phẩm nghệ thuật, chúng ta không chỉ lan tỏa vẻ đẹp mà còn thể hiện tinh thần sẻ chia với cộng đồng.",
+    "fundUsage": [
+      { "item": "Dự án giáo dục vùng cao", "amount": 50000000 },
+      { "item": "Dự án y tế cộng đồng", "amount": 30000000 },
+      { "item": "Quỹ khẩn cấp", "amount": 20000000 }
+    ],
+    "organizer": {
+      "name": "Quỹ Bông Hồng Nhỏ",
+      "logo": "https://littlerosesfoundation.org/wp-content/uploads/2022/08/df.png"
+    },
+    "startDate": "2024-12-01",
+    "endDate": "2025-01-31",
+    "donorCount": 45,
+    "gallery": [
+      "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=800",
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800"
+    ],
+    "timeline": []
+  }
+]

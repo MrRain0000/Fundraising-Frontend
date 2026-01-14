@@ -1,0 +1,10 @@
+/* ===== MAIN CSS - Quỹ Bông Hồng Nhỏ ===== */
+
+/* Import Bootstrap */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+/* Import Bootstrap Icons */
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+/* Import custom styles */
+@import './base.css';
